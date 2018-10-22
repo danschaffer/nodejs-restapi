@@ -1,7 +1,6 @@
 customer-service node app
 =========================
-Projects from Building Node.js REST API book: https://www.amazon.com/Building-Node-js-REST-API-Approach-ebook/dp/B07G34CXPQ/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1539558417&sr=1-2&keywords=nodejs&dpID=41tSX0GBYvL&preST=_SY445_QL70_&dpSrc=srch
-
+Projects from Building [Node.js REST API book](https://www.amazon.com/Building-Node-js-REST-API-Approach-ebook/dp/B07G34CXPQ/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1539558417&sr=1-2&keywords=nodejs&dpID=41tSX0GBYvL&preST=_SY445_QL70_&dpSrc=srch)
 
 initial setup
 -------------
